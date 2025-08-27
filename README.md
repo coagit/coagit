@@ -1,4 +1,4 @@
-## Hola, bienvenido! 👋
+## Hola! 👋
 
 My name is Aleksandar, I'm a software developer currently based in Valencia, Spain. In my past life I lived in Serbia, loved the food there but the sea and the sun prevailed.
 
